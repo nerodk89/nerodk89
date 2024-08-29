@@ -1,7 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m Nero, and I'm an AI Engineer currently working on blockchain as a Web3 Builder.
+- 🌱 Learning Move, Sui and researching [Walrus](https://docs.walrus.site/index.html).
+- 📫 How to reach me: nerodk89@gmail.com.
+- 🤔 Favorite: PFP NFTs.
 <!--
-**nerodk89/nerodk89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nerophung/nerophung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
